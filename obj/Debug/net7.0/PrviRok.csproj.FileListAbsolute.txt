@@ -1,0 +1,14 @@
+C:\Users\Ricma\Desktop\Sve sa povrsine\OOP - ispit\PrviRok\bin\Debug\net7.0\PrviRok.exe
+C:\Users\Ricma\Desktop\Sve sa povrsine\OOP - ispit\PrviRok\bin\Debug\net7.0\PrviRok.deps.json
+C:\Users\Ricma\Desktop\Sve sa povrsine\OOP - ispit\PrviRok\bin\Debug\net7.0\PrviRok.runtimeconfig.json
+C:\Users\Ricma\Desktop\Sve sa povrsine\OOP - ispit\PrviRok\bin\Debug\net7.0\PrviRok.dll
+C:\Users\Ricma\Desktop\Sve sa povrsine\OOP - ispit\PrviRok\bin\Debug\net7.0\PrviRok.pdb
+C:\Users\Ricma\Desktop\Sve sa povrsine\OOP - ispit\PrviRok\obj\Debug\net7.0\PrviRok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricma\Desktop\Sve sa povrsine\OOP - ispit\PrviRok\obj\Debug\net7.0\PrviRok.AssemblyInfoInputs.cache
+C:\Users\Ricma\Desktop\Sve sa povrsine\OOP - ispit\PrviRok\obj\Debug\net7.0\PrviRok.AssemblyInfo.cs
+C:\Users\Ricma\Desktop\Sve sa povrsine\OOP - ispit\PrviRok\obj\Debug\net7.0\PrviRok.csproj.CoreCompileInputs.cache
+C:\Users\Ricma\Desktop\Sve sa povrsine\OOP - ispit\PrviRok\obj\Debug\net7.0\PrviRok.dll
+C:\Users\Ricma\Desktop\Sve sa povrsine\OOP - ispit\PrviRok\obj\Debug\net7.0\refint\PrviRok.dll
+C:\Users\Ricma\Desktop\Sve sa povrsine\OOP - ispit\PrviRok\obj\Debug\net7.0\PrviRok.pdb
+C:\Users\Ricma\Desktop\Sve sa povrsine\OOP - ispit\PrviRok\obj\Debug\net7.0\PrviRok.genruntimeconfig.cache
+C:\Users\Ricma\Desktop\Sve sa povrsine\OOP - ispit\PrviRok\obj\Debug\net7.0\ref\PrviRok.dll
