@@ -1,0 +1,43 @@
+public class sensorArray{
+
+	private IotSensor[,] sensorArray;
+	
+	public sensorArray(int x, int y){
+		
+		sensorArray = new IotSensor[x, y];
+		
+	}
+
+	public void InserSensor(IotSensor sensor, int x, int y){
+		
+		sensorArray[x,y] = sensor
+		
+	}
+
+	public double TimeForWork(){
+		double time = double.MaxValue;
+		
+		foreach(var sensor in sensorArray){
+			if(sensor == null){
+				throw new SensorFailException("test");
+			}
+			if(time > sensor.GetWorkingTime()){
+				time = sensor.GetWorkingTime();
+			}
+			
+		}
+		return time;
+	}
+	
+}
+
+public static void Run(){
+	//jel ovo dovoljno za testiranje kako radi ex, sensei->zadano
+	try{
+		
+		double time = sensei.TimeForWork();
+		
+	}catch(SensorFailException ex){
+		
+	}
+}
